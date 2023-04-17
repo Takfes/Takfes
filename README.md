@@ -46,5 +46,5 @@
 <a href="https://medium.com/@pan.fessas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pan.fessas" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takfes&show_icons=true&locale=en&layout=compact" alt="takfes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takfes&show_icons=true&locale=en" alt="takfes" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takfes&show_icons=true&locale=en&layout=compact" alt="takfes" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takfes&show_icons=true&locale=en" alt="takfes" /></p> -->
