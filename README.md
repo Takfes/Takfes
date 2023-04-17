@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)](https://Takfes.io)
+[![MasterHead](https://static.wixstatic.com/media/3eee0b_6067e52546d042b2ac687c4e9a980b24~mv2.gif)](https://Takfes.io)
 
 <h1 align="center">Hi 👋, I'm Takis Fessas</h1>
 <h3 align="center">A passionate Data Scientist & ML Engineer from Greece</h3>
