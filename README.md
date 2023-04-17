@@ -1,10 +1,8 @@
 [![MasterHead](https://static.wixstatic.com/media/3eee0b_6067e52546d042b2ac687c4e9a980b24~mv2.gif)](https://Takfes.io)
 
 <h1 align="center">Hi 👋, I'm Takis Fessas</h1>
-<h3 align="center">A passionate Data Scientist & ML Engineer from Greece</h3>
+<h3 align="center">Data Scientist & ML Engineer from Greece🇬🇷</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-<!-- - 💬 Ask me about **sklearn, mlflow, optuna, pycaret** -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
