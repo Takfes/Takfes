@@ -1,7 +1,7 @@
 [![MasterHead](https://static.wixstatic.com/media/3eee0b_6067e52546d042b2ac687c4e9a980b24~mv2.gif)](https://Takfes.io)
 
 <h1 align="center">Hi 👋, I'm Takis Fessas</h1>
-<h3 align="center">Data Scientist & ML Engineer from Greece🇬🇷</h3>
+<h3 align="center">🇬🇷</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +42,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/panagiotisfessas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis fessas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14872045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14872045" height="30" width="40" /></a>
 <a href="https://medium.com/@pan.fessas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pan.fessas" height="30" width="40" /></a>
 </p>
 
