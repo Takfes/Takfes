@@ -8,13 +8,16 @@
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm Takis Fessas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Operations+Research+Specialist" alt="Typing SVG" />
 
 ## 🚀 About Me
 
 🔭 I am passionate about Data Science, Operations Research, and Software Engineering.
+<br>
 🌱 Currently focused on exploring advanced Deep Learning (DL) and Deep Reinforcement Learning (DRL) techniques, particularly their applications in logistics.
+<br>
 🇬🇷 Based in Greece.
+<br>
 💡 Always enthusiastic about learning and collaborating on innovative projects.
 
 </td>
@@ -33,6 +36,7 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=EE4C2C" height="25" alt="PyTorch"/></a>&nbsp;
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=white&labelColor=FFD21E" height="25" alt="Hugging Face"/></a>&nbsp;
   <a href="https://www.gurobi.com/"><img src="https://img.shields.io/badge/Gurobi-FF0000?style=flat-square&logoColor=white&labelColor=FF0000" height="25" alt="Gurobi"/></a>
+  <a href="http://www.pyomo.org/"><img src="https://img.shields.io/badge/Pyomo-c77e34?style=flat-square&logoColor=white&labelColor=c77e34" height="25" alt="Pyomo"/></a>
 </p>
 
 <p align="center">
@@ -48,7 +52,7 @@
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0078D4" height="25" alt="Azure"/></a>&nbsp;
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=4285F4" height="25" alt="Google Cloud"/></a>&nbsp;
   <a href="https://developers.google.com/optimization"><img src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=4285F4" height="25" alt="OR-Tools"/></a>&nbsp;
-  <a href="http://www.pyomo.org/"><img src="https://img.shields.io/badge/Pyomo-3C8CE7?style=flat-square&logoColor=white&labelColor=3C8CE7" height="25" alt="Pyomo"/></a>
+  
 </p>
 
 ## 🤝 Connect With Me
