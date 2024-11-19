@@ -1,49 +1,59 @@
-[![MasterHead](https://static.wixstatic.com/media/3eee0b_6067e52546d042b2ac687c4e9a980b24~mv2.gif)](https://Takfes.io)
+<div align="center">
+  <img src="https://static.wixstatic.com/media/3eee0b_6067e52546d042b2ac687c4e9a980b24~mv2.gif" alt="banner" width="100%">
+</div>
 
-<h1 align="center">Hi 👋, I'm Takis Fessas</h1>
-<h3 align="center">🇬🇷</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm Takis Fessas
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eo_circle_blue_letter-r.svg/1024px-Eo_circle_blue_letter-r.svg.png?20200417111019" alt="r" width="40" height="40"/> </a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="julia" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Full+Stack+Developer" alt="Typing SVG" />
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/401953/hugging-face.svg" alt="huggingface" width="40" height="40"/> </a>
+## 🚀 About Me
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://dvc.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373568/dvc.svg" alt="dvc" width="40" height="40"/> </a>
+🔭 I am passionate about Data Science, Operations Research, and Software Engineering.
+🌱 Currently focused on exploring advanced Deep Learning (DL) and Deep Reinforcement Learning (DRL) techniques, particularly their applications in logistics.
+🇬🇷 Based in Greece.
+💡 Always enthusiastic about learning and collaborating on innovative projects.
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/neo4j-icon-452x512-b63ajo4a.png" alt="neo4j" width="40" height="40"/> </a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+</td>
+<td width="50%" valign="top">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="100%">
+</td>
+</tr>
+</table>
 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="googlecloud" width="40" height="40"/> </a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="googlecolab" width="40" height="40"/> </a>
+## 🛠️ Tech Stack
 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-
+<p align="center">
+  <!-- Row 1: Core Technologies -->
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" height="25" alt="Python"/></a>&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=F7931E" height="25" alt="scikit-learn"/></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=EE4C2C" height="25" alt="PyTorch"/></a>&nbsp;
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=white&labelColor=FFD21E" height="25" alt="Hugging Face"/></a>&nbsp;
+  <a href="https://www.gurobi.com/"><img src="https://img.shields.io/badge/Gurobi-FF0000?style=flat-square&logoColor=white&labelColor=FF0000" height="25" alt="Gurobi"/></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/panagiotisfessas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis fessas" height="30" width="40" /></a>
-<a href="https://medium.com/@pan.fessas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pan.fessas" height="30" width="40" /></a>
+<p align="center">
+  <!-- Row 2: MLOps & Cloud -->
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" height="25" alt="Docker"/></a>&nbsp;
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=326CE5" height="25" alt="Kubernetes"/></a>&nbsp;
+  <a href="https://dvc.org/"><img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white&labelColor=945DD6" height="25" alt="DVC"/></a>&nbsp;
+  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=0194E2" height="25" alt="MLflow"/></a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takfes&show_icons=true&locale=en&layout=compact" alt="takfes" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takfes&show_icons=true&locale=en" alt="takfes" /></p> -->
+<p align="center">
+  <!-- Row 3: Cloud & Optimization -->
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0078D4" height="25" alt="Azure"/></a>&nbsp;
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=4285F4" height="25" alt="Google Cloud"/></a>&nbsp;
+  <a href="https://developers.google.com/optimization"><img src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=4285F4" height="25" alt="OR-Tools"/></a>&nbsp;
+  <a href="http://www.pyomo.org/"><img src="https://img.shields.io/badge/Pyomo-3C8CE7?style=flat-square&logoColor=white&labelColor=3C8CE7" height="25" alt="Pyomo"/></a>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/panagiotisfessas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <!-- <a href="https://medium.com/@pan.fessas"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a> -->
+</p>
