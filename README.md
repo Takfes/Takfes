@@ -10,22 +10,29 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Machine+Learning+Engineer;Data+Scientist;Operations+Research+Specialist" alt="Typing SVG" />
 
-## 🚀 About Me
+<br>
 
-🔭 Passionate about **Data Science** and **Operations Research**.
-<br>
-🌱 Exploring how **Deep Learning**, **Graph Neural Networks**, and **Deep Reinforcement Learning** can be applied to tackle **Combinatorial Optimization** challenges in areas like supply chain and logistics.
-<br>
-💬 Always up for conversations about **new tools & technologies**, **containerization**, **automation workflows**, and experimenting with **emerging AI models**.
-<br>
-💡 Enthusiastic about continuous learning and collaborating on innovative, impactful projects.
-<br>
-🌍 Based in Greece.
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="100%">
 
 </td>
 <td width="50%" valign="top">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="100%">
+
+## 🚀 About Me
+
+🔭 Passionate about Data Science and Operations Research.
+<br>
+
+🌱 Exploring how Deep Learning, Graph Neural Networks, and Deep Reinforcement Learning can be applied to tackle Combinatorial Optimization challenges in areas like supply chain and logistics.
+<br>
+
+💬 Always up for conversations about new tools & technologies, containerization, automation workflows, and experimenting with emerging AI models.
+<br>
+
+💡 Enthusiastic about continuous learning and collaborating on innovative, impactful projects.
+<br>
+
+🌍 Based in Greece.
+
 </td>
 </tr>
 </table>
