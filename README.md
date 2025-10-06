@@ -12,13 +12,16 @@
 
 ## 🚀 About Me
 
-🔭 I am passionate about Data Science, Operations Research, and Software Engineering.
+🔭 Passionate about **Data Science** and **Operations Research**.
 <br>
-🌱 Currently focused on exploring advanced Deep Learning (DL) and Deep Reinforcement Learning (DRL) techniques, particularly their applications in logistics.
+🌱 Exploring how **Deep Learning**, **Graph Neural Networks**, and **Deep Reinforcement Learning** can be applied to tackle **Combinatorial Optimization** challenges in areas like supply chain and logistics.
 <br>
-🇬🇷 Based in Greece.
+💬 Always up for conversations about **new tools & technologies**, **containerization**, **automation workflows**, and experimenting with **emerging AI models**.
 <br>
-💡 Always enthusiastic about learning and collaborating on innovative projects.
+💡 Enthusiastic about continuous learning and collaborating on innovative, impactful projects.
+<br>
+🌍 Based in Greece.
+
 
 </td>
 <td width="50%" valign="top">
@@ -57,15 +60,17 @@
 
 ## 👀 Portfolio at a Glance
 
-| Category | Count | Key Focus Areas |
-|-------------|----------|-------------------|
-| **Analytics & Optimization** | 9 repos | Machine Learning, Deep Learning, Operations Research |
-| **LLM & AI Applications** | 6 repos | Modern AI applications, automation, research tools |
-| **DevOps & Infrastructure** | 6 repos | Containerization, MLOps, data pipelines |
-| **Tools & Languages** | 5 repos | Development utilities, language learning |
-| **Misc Applications** | 11 repos | Finance, web development, scraping, dashboards |
+<div align="left">
 
-## 👉 [Explore My Repositories](TOC.md)
+• **[🧮 Analytics & Optimization](TOC.md#analytics--optimization)** → Machine Learning, Deep Learning, Operations Research  
+• **[🤖 LLM & AI Applications](TOC.md#llm--ai-applications)** → Modern AI applications, automation, research tools  
+• **[🔧 DevOps & Infrastructure](TOC.md#devops--infrastructure)** → Containerization, MLOps, data pipelines  
+• **[🛠️ Tools & Languages](TOC.md#tools--languages)** → Development utilities, language learning  
+• **[🌱 Various Applications](TOC.md#rest)** → Finance, web development, scraping, dashboards  
+
+**👉 [Explore All Repositories in Detail](TOC.md)**
+
+</div>
 
 ## 🏆 [Oneline Certifications](https://github.com/Takfes/certifications)
 
