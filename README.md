@@ -55,6 +55,20 @@
   
 </p>
 
+## 👀 Portfolio at a Glance
+
+| Category | Count | Key Focus Areas |
+|-------------|----------|-------------------|
+| **Analytics & Optimization** | 9 repos | Machine Learning, Deep Learning, Operations Research |
+| **LLM & AI Applications** | 6 repos | Modern AI applications, automation, research tools |
+| **DevOps & Infrastructure** | 6 repos | Containerization, MLOps, data pipelines |
+| **Tools & Languages** | 5 repos | Development utilities, language learning |
+| **Misc Applications** | 11 repos | Finance, web development, scraping, dashboards |
+
+## 👉 [Explore My Repositories](TOC.md)
+
+## 🏆 [Oneline Certifications](https://github.com/Takfes/certifications)
+
 ## 🤝 Connect With Me
 
 <p align="center">
