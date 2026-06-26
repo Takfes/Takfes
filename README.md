@@ -46,6 +46,10 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <p align="center"><sub>CORE DATA SCIENCE</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -69,6 +73,9 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
   <img src="https://img.shields.io/badge/Optuna-6C5CE7?style=for-the-badge&logoColor=white" alt="Optuna"/>
 </p>
 
+</td>
+<td width="50%" valign="top">
+
 <p align="center"><sub>BACKEND & DEPLOYMENT</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -86,11 +93,15 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="80%" valign="top">
 
 ## 👀 Portfolio at a Glance
 
@@ -144,13 +155,13 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 **👉 [Explore All Repositories in Detail](TOC.md)**
 
 </td>
-<td width="32%" valign="top">
+<td width="20%" valign="top">
 
 ## 🏆 Certifications
 
 [Online Certifications →](https://github.com/Takfes/indie-certifications)
 
-<br><br>
+<br>
 
 ## 🤝 Connect
 
