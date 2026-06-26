@@ -12,8 +12,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Machine+Learning+Engineer;Operations+Research+Specialist;Logistics+%26+Supply+Chain+AI" alt="Typing SVG" />
 
-<br>
-
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="100%">
 
 </td>
@@ -23,13 +21,9 @@
 
 I combine **Machine Learning**, **Data Science**, and **Operations Research** to build end-to-end solutions for real-world logistics and supply chain challenges — from problem formulation and model optimisation to production deployment.
 
-<br>
-
 💬 Always up for conversations about MLOps, containerisation, and the latest AI tools.
 
 🌍 Based in Greece.
-
-<br>
 
 ## 🔬 Currently Exploring
 
@@ -108,65 +102,51 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**[🧮 Analytics & Optimization](TOC.md#analytics--optimization)**<br>
+<b><a href="TOC.md#analytics--optimization">🧮 Analytics & Optimization</a></b><br>
 <sub>Machine Learning · Operations Research · Deep Learning</sub>
-
 </td>
 <td width="50%" valign="top">
-
-**[🤖 LLM & AI Applications](TOC.md#llm--ai-applications)**<br>
+<b><a href="TOC.md#llm--ai-applications">🤖 LLM & AI Applications</a></b><br>
 <sub>Agentic workflows · Automation · AI tooling</sub>
-
 </td>
 </tr>
 <tr>
 <td valign="top">
-
-**[🔧 DevOps & Infrastructure](TOC.md#devops--infrastructure)**<br>
+<b><a href="TOC.md#devops--infrastructure">🔧 DevOps & Infrastructure</a></b><br>
 <sub>Containerization · MLOps · Data Engineering</sub>
-
 </td>
 <td valign="top">
-
-**[🛠️ Tools & Languages](TOC.md#tools--languages)**<br>
+<b><a href="TOC.md#tools--languages">🛠️ Tools & Languages</a></b><br>
 <sub>Personal utilities · Shell config · Language learning</sub>
-
 </td>
 </tr>
 <tr>
 <td valign="top">
-
-**[🌱 Various Applications](TOC.md#rest)**<br>
+<b><a href="TOC.md#rest">🌱 Various Applications</a></b><br>
 <sub>Finance · Sports analytics · Personal projects</sub>
-
 </td>
 <td valign="top">
-
-**[📚 Study Notes](TOC.md#study-notes)**<br>
+<b><a href="TOC.md#study-notes">📚 Study Notes</a></b><br>
 <sub>Structured notes from courses, books & self-study</sub>
-
 </td>
 </tr>
 </table>
-
-<br>
 
 **👉 [Explore All Repositories in Detail](TOC.md)**
 
 </td>
 <td width="20%" valign="top">
+<blockquote>
 
-## 🏆 Certifications
+<p align="center"><img src="https://img.shields.io/badge/CERTIFICATIONS-161b22?style=for-the-badge" alt="Certifications"/></p>
 
-[Online Certifications →](https://github.com/Takfes/indie-certifications)
+<p align="center"><a href="https://github.com/Takfes/indie-certifications">🏆 Online Certifications</a></p>
 
-<br>
+<p align="center"><img src="https://img.shields.io/badge/CONNECT-161b22?style=for-the-badge" alt="Connect"/></p>
 
-## 🤝 Connect
+<p align="center"><a href="https://linkedin.com/in/panagiotisfessas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotisfessas)
-
+</blockquote>
 </td>
 </tr>
 </table>
