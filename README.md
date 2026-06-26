@@ -79,7 +79,7 @@
 
 </div>
 
-## 🏆 [Oneline Certifications](https://github.com/Takfes/certifications)
+## 🏆 [Online Certifications](https://github.com/Takfes/indie-certifications)
 
 ## 🤝 Connect With Me
 
