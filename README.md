@@ -19,18 +19,18 @@
 
 ## 🚀 About Me
 
-I combine **Machine Learning**, **Data Science**, and **Operations Research** to build end-to-end solutions for real-world logistics and supply chain challenges — from problem formulation and model optimisation to production deployment.
+🔭 I combine **Machine Learning**, **Data Science**, and **Operations Research** to build end-to-end solutions for real-world logistics and supply chain challenges — from problem formulation and model optimisation to production deployment.
 
-💬 Always up for conversations about MLOps, containerisation, and the latest AI tools.
+💬 Always up for conversations about Optimization, MLOps, and the latest AI tools.
 
 🌍 Based in Greece.
 
 ## 🔬 Currently Exploring
 
+🔗 **Bridging classical OR** with modern deep learning
 🧠 **Graph Neural Networks** applied to combinatorial optimisation<br>
 🎯 **Deep Reinforcement Learning** for sequential decision-making<br>
-🧩 **MILP as policy** for sequential decision-making frameworks<br>
-🔗 **Bridging classical OR** with modern deep learning
+🧩 **MILP as Policy** for sequential decision-making frameworks<br>
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 <tr>
 <td width="80%" valign="top">
 
-## 👀 Portfolio at a Glance
+## 💼 Portfolio at a Glance
 
 <table>
 <tr>
