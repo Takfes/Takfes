@@ -46,9 +46,7 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <sub>CORE DATA SCIENCE</sub>
-</p>
+<p align="center"><sub>CORE DATA SCIENCE</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -57,17 +55,13 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 </p>
 
-<p align="center">
-  <sub>DEEP LEARNING & AI</sub>
-</p>
+<p align="center"><sub>DEEP LEARNING & AI</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-<p align="center">
-  <sub>OPTIMISATION</sub>
-</p>
+<p align="center"><sub>OPTIMISATION</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Gurobi-CC0000?style=for-the-badge&logoColor=white" alt="Gurobi"/>
   <img src="https://img.shields.io/badge/Pyomo-c77e34?style=for-the-badge&logoColor=white" alt="Pyomo"/>
@@ -75,9 +69,7 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
   <img src="https://img.shields.io/badge/Optuna-6C5CE7?style=for-the-badge&logoColor=white" alt="Optuna"/>
 </p>
 
-<p align="center">
-  <sub>BACKEND & DEPLOYMENT</sub>
-</p>
+<p align="center"><sub>BACKEND & DEPLOYMENT</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -85,9 +77,7 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
-<p align="center">
-  <sub>MLOPS · CLOUD · DATA</sub>
-</p>
+<p align="center"><sub>MLOPS · CLOUD · DATA</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
@@ -98,28 +88,74 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 
 ---
 
+<table>
+<tr>
+<td width="68%" valign="top">
+
 ## 👀 Portfolio at a Glance
 
-<div align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-• **[🧮 Analytics & Optimization](TOC.md#analytics--optimization)** → Machine Learning, Deep Learning, Operations Research  
-• **[🤖 LLM & AI Applications](TOC.md#llm--ai-applications)** → Modern AI applications, automation, research tools  
-• **[🔧 DevOps & Infrastructure](TOC.md#devops--infrastructure)** → Containerization, MLOps, data pipelines  
-• **[🛠️ Tools & Languages](TOC.md#tools--languages)** → Development utilities, language learning  
-• **[🌱 Various Applications](TOC.md#rest)** → Finance, web development, scraping, dashboards  
+**[🧮 Analytics & Optimization](TOC.md#analytics--optimization)**<br>
+<sub>Machine Learning · Operations Research · Deep Learning</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[🤖 LLM & AI Applications](TOC.md#llm--ai-applications)**<br>
+<sub>Agentic workflows · Automation · AI tooling</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[🔧 DevOps & Infrastructure](TOC.md#devops--infrastructure)**<br>
+<sub>Containerization · MLOps · Data Engineering</sub>
+
+</td>
+<td valign="top">
+
+**[🛠️ Tools & Languages](TOC.md#tools--languages)**<br>
+<sub>Personal utilities · Shell config · Language learning</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[🌱 Various Applications](TOC.md#rest)**<br>
+<sub>Finance · Sports analytics · Personal projects</sub>
+
+</td>
+<td valign="top">
+
+**[📚 Study Notes](TOC.md#study-notes)**<br>
+<sub>Structured notes from courses, books & self-study</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 **👉 [Explore All Repositories in Detail](TOC.md)**
 
-</div>
+</td>
+<td width="32%" valign="top">
 
----
+## 🏆 Certifications
 
-## 🏆 [Online Certifications](https://github.com/Takfes/certifications)
+[Online Certifications →](https://github.com/Takfes/indie-certifications)
 
----
+<br><br>
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/panagiotisfessas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotisfessas)
+
+</td>
+</tr>
+</table>
