@@ -25,13 +25,7 @@ I combine **Machine Learning**, **Data Science**, and **Operations Research** to
 
 <br>
 
-Driven by the belief that the most impactful results come from bridging rigorous mathematical optimisation with modern data-driven approaches.
-
-<br>
-
 💬 Always up for conversations about MLOps, containerisation, and the latest AI tools.
-
-<br>
 
 🌍 Based in Greece.
 
@@ -41,7 +35,8 @@ Driven by the belief that the most impactful results come from bridging rigorous
 
 🧠 **Graph Neural Networks** applied to combinatorial optimisation<br>
 🎯 **Deep Reinforcement Learning** for sequential decision-making<br>
-🔗 Bridging classical OR with modern deep learning frameworks
+🧩 **MILP as policy** for sequential decision-making frameworks<br>
+🔗 **Bridging classical OR** with modern deep learning
 
 </td>
 </tr>
@@ -51,54 +46,54 @@ Driven by the belief that the most impactful results come from bridging rigorous
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Core Data Science</b></p>
 <p align="center">
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" alt="Python"/></a>&nbsp;
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25" alt="NumPy"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25" alt="Pandas"/></a>&nbsp;
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="25" alt="Jupyter"/></a>&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25" alt="scikit-learn"/></a>
+  <sub>CORE DATA SCIENCE</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 </p>
 
-<p align="center"><b>Deep Learning & AI</b></p>
 <p align="center">
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></a>&nbsp;
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=white" height="25" alt="Hugging Face"/></a>
+  <sub>DEEP LEARNING & AI</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-<p align="center"><b>Optimisation</b></p>
 <p align="center">
-  <a href="https://www.gurobi.com/"><img src="https://img.shields.io/badge/Gurobi-FF0000?style=flat-square&logoColor=white" height="25" alt="Gurobi"/></a>&nbsp;
-  <a href="http://www.pyomo.org/"><img src="https://img.shields.io/badge/Pyomo-c77e34?style=flat-square&logoColor=white" height="25" alt="Pyomo"/></a>&nbsp;
-  <a href="https://developers.google.com/optimization"><img src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white" height="25" alt="OR-Tools"/></a>&nbsp;
-  <a href="https://optuna.org/"><img src="https://img.shields.io/badge/Optuna-3B4CCA?style=flat-square&logoColor=white" height="25" alt="Optuna"/></a>
+  <sub>OPTIMISATION</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gurobi-CC0000?style=for-the-badge&logoColor=white" alt="Gurobi"/>
+  <img src="https://img.shields.io/badge/Pyomo-c77e34?style=for-the-badge&logoColor=white" alt="Pyomo"/>
+  <img src="https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OR-Tools"/>
+  <img src="https://img.shields.io/badge/Optuna-6C5CE7?style=for-the-badge&logoColor=white" alt="Optuna"/>
 </p>
 
-<p align="center"><b>Backend & Deployment</b></p>
 <p align="center">
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="25" alt="FastAPI"/></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25" alt="Flask"/></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" alt="Docker"/></a>&nbsp;
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="25" alt="Kubernetes"/></a>
+  <sub>BACKEND & DEPLOYMENT</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
-<p align="center"><b>MLOps, Cloud & Data</b></p>
 <p align="center">
-  <a href="https://dvc.org/"><img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" height="25" alt="DVC"/></a>&nbsp;
-  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="25" alt="MLflow"/></a>&nbsp;
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="25" alt="Azure"/></a>&nbsp;
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="25" alt="Google Cloud"/></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="25" alt="SQL"/></a>
+  <sub>MLOPS · CLOUD · DATA</sub>
 </p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Takfes&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=2196F3&icon_color=2196F3&text_color=444444" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takfes&layout=compact&hide_border=true&theme=default&title_color=2196F3&text_color=444444&langs_count=6" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
@@ -126,5 +121,5 @@ Driven by the belief that the most impactful results come from bridging rigorous
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/panagiotisfessas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/panagiotisfessas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
