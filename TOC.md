@@ -1,77 +1,108 @@
 <div align="center">
 
-**Welcome to my GitHub portfolio!** Explore my repositories organized by expertise area with quick navigation cards.
+# 📂 Repository Index
+
+> **30 repositories** · organized by domain · last updated June 2026
+
+![Analytics](https://img.shields.io/badge/Analytics_%26_OR-11_repos-4CAF50?style=flat-square)
+![Study](https://img.shields.io/badge/Study_Notes-8_repos-2196F3?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack_%26_Infra-4_repos-FF9800?style=flat-square)
+![Indie](https://img.shields.io/badge/Indie_Projects-6_repos-9C27B0?style=flat-square)
 
 </div>
 
 ---
 
-
-## 🏆 Online Certifications
-[`certifications`](https://github.com/Takfes/certifications)
+## 🏆 [Online Certifications](https://github.com/Takfes/indie-certifications)
 
 ---
 
-### 🧠 ML Foundations
-[`python-classification`](https://github.com/Takfes/python-classification) • [`python-regression`](https://github.com/Takfes/python-regression) • [`python-pycaret`](https://github.com/Takfes/python-pycaret)  
-[`notes-machine-learning`](https://github.com/Takfes/notes-machine-learning) • [`notes-time-series-analysis`](https://github.com/Takfes/notes-time-series-analysis)
+## 🧮 Analytics & Optimization
 
-### 🤿 Deep Learning
-[`notes-deep-learning`](https://github.com/Takfes/notes-deep-learning) • [`notes-reinforcement-learning`](https://github.com/Takfes/notes-reinforcement-learning)
+<sub>Machine Learning · Operations Research · Deep Learning</sub>
 
-### 🎯 Operations Research
-[`notes-operations-research`](https://github.com/Takfes/notes-operations-research) • [`fun-digital-twin-des`](https://github.com/Takfes/fun-digital-twin-des)
+#### `python-` &nbsp; Python Projects
 
----
+| Repository | Description |
+|:---|:---|
+| [`python-classifiers`](https://github.com/Takfes/python-classifiers) | Classification algorithms, model selection & evaluation |
+| [`python-regression`](https://github.com/Takfes/python-regression) | Regression models, feature engineering & experiments |
+| [`python-pandas-lab`](https://github.com/Takfes/python-pandas-lab) | Pandas patterns & data wrangling recipes |
+| [`python-databricks`](https://github.com/Takfes/python-databricks) | Databricks & Apache Spark workflows |
+| [`python-dl-coursera`](https://github.com/Takfes/python-dl-coursera) | Deep Learning Specialization coursework (Coursera) |
 
-## LLM & AI Applications
+#### `optim-` &nbsp; Operations Research
 
-### 📦 Applied
-[`fun-agents-n8n-workspace`](https://github.com/Takfes/fun-agents-n8n-workspace) • [`fun-mcp-vibecoding-vs`](https://github.com/Takfes/fun-mcp-vibecoding-vs)  
-[`fun-dataanalysis-gpt`](https://github.com/Takfes/fun-dataanalysis-gpt)
-
-### 🔬 Research
-[`fun-custom-content-llm-apps`](https://github.com/Takfes/fun-custom-content-llm-apps) • [`fun-kotaemon-llm-app`](https://github.com/Takfes/fun-kotaemon-llm-app)  
-[`fun-zotero-research-gpt`](https://github.com/Takfes/fun-zotero-research-gpt)
-
----
-
-## DevOps & Infrastructure
-
-### 🔧 Containerization
-[`docker-datascience-platform`](https://github.com/Takfes/docker-datascience-platform) • [`docker-mlflow-minio-psg`](https://github.com/Takfes/docker-mlflow-minio-psg)  
-[`fun-dvc-project`](https://github.com/Takfes/fun-dvc-project)  
-[`notes-devops-engineering`](https://github.com/Takfes/notes-devops-engineering)
-
-### 🪠 Data Engineering
-[`fun-cdc-kafka-streaming`](https://github.com/Takfes/fun-cdc-kafka-streaming) • [`fun-databricks-starters`](https://github.com/Takfes/fun-databricks-starters)
+| Repository | Description |
+|:---|:---|
+| [`optim-discrete-opt`](https://github.com/Takfes/optim-discrete-opt) | Discrete optimization — TSP, knapsack, graph problems |
+| [`optim-metaheuristics`](https://github.com/Takfes/optim-metaheuristics) | Genetic algorithms, simulated annealing, tabu search |
+| [`optim-pyomo-ortools`](https://github.com/Takfes/optim-pyomo-ortools) | Mathematical modeling with Pyomo & Google OR-Tools |
+| [`optim-scheduling`](https://github.com/Takfes/optim-scheduling) | Job scheduling, resource allocation & timetabling |
+| [`optim-interval-coloring`](https://github.com/Takfes/optim-interval-coloring) | Graph coloring via interval scheduling heuristics |
+| [`gurobi-examples`](https://github.com/Takfes/gurobi-examples) | Gurobi solver examples & MIP formulations *(fork)* |
 
 ---
 
-## Tools & Languages
+## 🤖 LLM & AI Applications
 
-### 🛠️ Configuration and Tools
-[`takvbz`](https://github.com/Takfes/takvbz) • [`configuration-aliases`](https://github.com/Takfes/configuration-aliases)  
-[`fun-cli-tool-mktmp`](https://github.com/Takfes/fun-cli-tool-mktmp)
+<sub>Agentic workflows · Automation · AI tooling</sub>
 
-### 🗣️ Language Learning
-[`lang-julia-basics`](https://github.com/Takfes/lang-julia-basics) • [`takmeR`](https://github.com/Takfes/takmeR)
-
+| Repository | Description |
+|:---|:---|
+| [`stack-n8n-agents`](https://github.com/Takfes/stack-n8n-agents) | n8n-based AI agent workflows, integrations & automations |
 
 ---
 
-## Misc Applications
+## 🔧 DevOps & Infrastructure
 
-### 📈 Finance & Trading
-[`fun-quants-app`](https://github.com/Takfes/fun-quants-app) • [`fun-crypto-app`](https://github.com/Takfes/fun-crypto-app) • [`fun-quant-crypto-trade`](https://github.com/Takfes/fun-quant-crypto-trade)
+<sub>Containerization · MLOps · Data Engineering</sub>
 
-### 🌱 Various
-[`fun-streamlit-dashboards`](https://github.com/Takfes/fun-streamlit-dashboards) • [`fun-medium-content-explorer`](https://github.com/Takfes/fun-medium-content-explorer)  
-[`fun-euroleague-fantasy`](https://github.com/Takfes/fun-euroleague-fantasy)
+| Repository | Description |
+|:---|:---|
+| [`stack-devcontainer`](https://github.com/Takfes/stack-devcontainer) | Base dev container image for reproducible data science environments |
+| [`stack-mlflow-minio`](https://github.com/Takfes/stack-mlflow-minio) | Self-hosted MLflow + MinIO experiment tracking stack |
+| [`stack-kafka-cdc`](https://github.com/Takfes/stack-kafka-cdc) | Kafka change-data-capture streaming pipeline |
 
-### 🕷️ Web Scraping & Data Collection
-[`scraping-w-scrapy`](https://github.com/Takfes/scraping-w-scrapy) • [`fun-scraping-medium`](https://github.com/Takfes/fun-scraping-medium)  
-[`python-flight-hopping`](https://github.com/Takfes/python-flight-hopping)
+---
 
-### 🌐 Web Development & Application
-[`web-development-bootcamp`](https://github.com/Takfes/web-development-bootcamp) • [`fun-javascript-udemy-course`](https://github.com/Takfes/fun-javascript-udemy-course)
+## 🛠️ Tools & Languages
+
+<sub>Personal utilities · Shell config · Language learning</sub>
+
+| Repository | Description |
+|:---|:---|
+| [`indie-r-utils`](https://github.com/Takfes/indie-r-utils) | Personal R utility package — clipboard I/O, NA inspection (`takmeR`) |
+| [`indie-scaffolder`](https://github.com/Takfes/indie-scaffolder) | Project bootstrap & scaffold templates for new repos |
+| [`indie-dotfiles-cfg`](https://github.com/Takfes/indie-dotfiles-cfg) | Shell aliases, dotfiles & environment configuration |
+| [`indie-learn-js`](https://github.com/Takfes/indie-learn-js) | JavaScript fundamentals, exercises & mini-projects |
+
+---
+
+<a id="rest"></a>
+
+## 🌱 Various Applications
+
+<sub>Finance · Sports analytics · Personal projects</sub>
+
+| Repository | Description |
+|:---|:---|
+| [`indie-quant-trading`](https://github.com/Takfes/indie-quant-trading) | Quantitative & crypto trading strategies |
+| [`indie-euroleague`](https://github.com/Takfes/indie-euroleague) | Euroleague fantasy basketball analytics |
+
+---
+
+## 📚 Study Notes
+
+<sub>Structured notes from courses, books & self-study</sub>
+
+| Repository | Subject |
+|:---|:---|
+| [`study-machine-learning`](https://github.com/Takfes/study-machine-learning) | ML fundamentals — algorithms, theory, implementations |
+| [`study-deep-learning`](https://github.com/Takfes/study-deep-learning) | Neural networks, CNNs, transformers & architectures |
+| [`study-time-series`](https://github.com/Takfes/study-time-series) | Time series analysis, forecasting & decomposition |
+| [`study-reinf-learning`](https://github.com/Takfes/study-reinf-learning) | Reinforcement learning — MDPs, Q-learning, policy gradients |
+| [`study-ops-research`](https://github.com/Takfes/study-ops-research) | Operations research — LP, IP, network flows, theory |
+| [`study-devops-k8s`](https://github.com/Takfes/study-devops-k8s) | DevOps, Docker, Kubernetes & cloud-native patterns |
+| [`makemore`](https://github.com/Takfes/makemore) | Karpathy — character-level language model, from scratch *(fork)* |
+| [`micrograd`](https://github.com/Takfes/micrograd) | Karpathy — tiny autograd engine & neural net library *(fork)* |
